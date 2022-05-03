@@ -12,6 +12,7 @@
 ## JupyterLab 
 - [インストール方法](https://ai-inter1.com/jupyter-lab/)
 - [起動Shell](./shell/jupyterlab.sh)
+  - [jupyterlab.sh]を[.ipynb]ファイルがあるフォルダに配置
 
 ## 学習サイト
 - [Progate](https://prog-8.com/courses/python)
